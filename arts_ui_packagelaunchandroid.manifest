@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1757697441
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 539949da5f29671f6e3f0cca9e40b6b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1bba0c91ece13f075040cc62060b6ba4
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 539949da5f29671f6e3f0cca9e40b6b1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/PackageLaunch/PackageLaunch_atlas0.png
+- Assets/Arts/UI/PackageLaunch/PackageLaunch_fui.bytes
+Dependencies: []

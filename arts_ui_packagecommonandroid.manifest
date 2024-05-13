@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3612559093
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9aa017d66654247fae561b77e31b2539
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 254d8d394b16d9f07eea37ce565ddd07
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9aa017d66654247fae561b77e31b2539
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/PackageCommon/PackageCommon_fui.bytes
+- Assets/Arts/UI/PackageCommon/PackageCommon_x1f02f.mp3
+- Assets/Arts/UI/PackageCommon/PackageCommon_v82m2b.mp3
+- Assets/Arts/UI/PackageCommon/PackageCommon_atlas0.png
+- Assets/Arts/UI/PackageCommon/PackageCommon_v82m2c.mp3
+Dependencies: []

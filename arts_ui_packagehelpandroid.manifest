@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1852042747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 345ca32ca72016d4a445700dc5f5f073
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: deaf5b7fe83e1a31de382f7fed810e72
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 345ca32ca72016d4a445700dc5f5f073
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/UI/PackageHelp/PackageHelp_atlas0.png
+- Assets/Arts/UI/PackageHelp/PackageHelp_fui.bytes
+Dependencies: []
